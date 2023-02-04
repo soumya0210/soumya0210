@@ -13,7 +13,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![AWS S3](https://img.shields.io/badge/-AmazonWebServices-purple?style=flat-square&logo=AWS)
+![AWS S3](https://img.shields.io/badge/-AmazonWebServices-black?style=flat-square&logo=AWS)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 <p align="center">
