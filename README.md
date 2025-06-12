@@ -1,7 +1,11 @@
 <h1 align="center"> Hi!! I'm Soumya Ranjan </h1>
 <h3 align="center">Software Engineer working towards building and delivering impactful web services</h3>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=soumya0210.soumya0210" width="150" height="30" alt="Visitor Count"/>
+   <h4 align="center">⚡ | • <a href="[https://soumya0210.github.io/portfolio/]">PortFolio</a> • | ⚡</h4>
+</div>
 
-<p align="left">
+<div align="center">
 <h2 align="center">⚡ Languages and Tools:</h2>
 
 
@@ -17,10 +21,9 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 <p align="center">
-<br />
-  <p><img align="center"
+<br align="center" />
+  <p align="center"><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya0210&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="soumya0210" 
     bg_color=#808080/></p>
 </div>
-<br />
