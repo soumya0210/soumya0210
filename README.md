@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer working towards building and delivering impactful web services</h3>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=soumya0210.soumya0210" width="150" height="30" alt="Visitor Count"/>
-   <h4 align="center">⚡ | • <a href="[https://soumya0210.github.io/portfolio/]">PortFolio</a> • | ⚡</h4>
+   <h4 align="center">⚡ | • <a href="https://soumya0210.github.io/portfolio/">PortFolio</a> • | ⚡</h4>
 </div>
 
 <div align="center">
